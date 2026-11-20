@@ -1,8 +1,4 @@
-# Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C) — Primer cuatrimestre de 2013
-
-## Equipo docente
-
-- **Clases teóricas:** Ariel Lombardi, Esteban Andruchow
+# Análisis 1 M — Primer cuatrimestre de 2013
 
 ## Prácticas
 
@@ -24,14 +20,6 @@
 - [final del 21/12/2010](Final%2021-12%20%28dg%29.pdf)
 - [final del 28/12/2010](Final%2028-12%20%28dg%29.pdf)
 - [Práctica 4 - Derivadas parciales de orden superior. Polinomio de Taylor.](practica4-2013.pdf)
-
-## Bibliografía
-
-- Bibliografía adicional "Cálculo y Análisis"
-- Bibliografía adicional
-- NORIEGA, R. : Cálculo Diferencial e Integral. Editorial Docencia
-- LAGES LIMA, E. : Curso de análise, volúmenes 1 y 2.
-- MARSDEN, J. y TROMBA, A. : Cálculo Vectorial. Tercera edición. Addison-Wesley.
 
 ## Página original
 
